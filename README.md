@@ -1,6 +1,8 @@
 # lecture
 Lecture Web1 28/11
 
+## CSS HERE:
+
 body {
   background-color: #343434;
 }
