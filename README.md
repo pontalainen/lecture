@@ -1,7 +1,7 @@
 # lecture
 Lecture Web1 28/11
 
-`body {
+body {
   background-color: #343434;
 }
 
@@ -49,4 +49,3 @@ button {
 #text {
   display: block;
 }
-`
