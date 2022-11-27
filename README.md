@@ -1,0 +1,52 @@
+# lecture
+Lecture Web1 28/11
+
+`body {
+  background-color: #343434;
+}
+
+body main {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(143, 255, 218);
+  padding: 6em;
+  border-radius: 10%;
+  color: #343434;
+  font-size: 1.5rem;
+}
+
+main * {
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+button {
+  width: 8rem;
+  aspect-ratio: 2 / 1;
+  background-color: snow;
+  border: none;
+  box-shadow: 0px 5px 10px #343434;
+  font-size: 1em;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: #343434;
+
+  cursor: pointer;
+}
+
+#text {
+  display: block;
+}
+`
