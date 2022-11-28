@@ -17,6 +17,7 @@ main {
   border-radius: 10%;
   color: #343434;
   font-size: 1.5rem;
+  width: max-content;
 }
 
 main * {
